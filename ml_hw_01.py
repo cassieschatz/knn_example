@@ -7,6 +7,8 @@ Created on Sun Jan 17 13:12:08 2021
 """
 from sklearn.neighbors import KNeighborsClassifier
 
+#HERE I AM ADDING SOMETHING!
+
 i = 10
 
 knn = KNeighborsClassifier(i)
